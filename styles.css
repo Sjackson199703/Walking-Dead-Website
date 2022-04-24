@@ -1,5 +1,5 @@
 main{
-    background-image: linear-gradient(red, black);
+    background-image: linear-gradient(rgb(45, 43, 43),black,red);
 }
 img{
     width: 100%;
@@ -25,10 +25,34 @@ article{
     width: 100px;
 }
 
+.gallery{
+    text-align: center;
+    margin-left: 10%;
+}
+
+table{
+    text-align: center;
+    margin-left: 10%;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+p{
+    margin-left: 10%;
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+
 .added_image{
     margin-top: 10%;
     margin-left: 10%;
     height: 300px;
     width: 450px;
     justify-content: center;
+    border-radius: 5%;
 }
