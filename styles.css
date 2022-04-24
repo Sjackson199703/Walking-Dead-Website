@@ -1,0 +1,33 @@
+main{
+    background-image: linear-gradient(red, black);
+}
+img{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+nav{
+    text-align: center;
+    background-color: black;
+    height: 90px;
+}
+
+article{
+    height: 1000px;
+    width: 100px;
+}
+
+.daryl{
+    margin-top: 10%;
+    margin-left: 10%;
+    height: 400px;
+    width: 500px;
+    justify-content: center;
+}
